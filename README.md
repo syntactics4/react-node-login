@@ -10,3 +10,5 @@ Next install the project:
 Finally start the node server
 
 ```npm run start-server```
+
+After everything is running you may go to http://localhost:3000/ to view the interface.
