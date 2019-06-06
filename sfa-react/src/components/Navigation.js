@@ -63,7 +63,7 @@ class Navigation extends Component {
             <Nav 
                 className="justify-content-center" 
                 variant="pills"
-                defaultActiveKey="home"
+                activeKey="home"
             >
                 {this.buildLinks()}
             </Nav>
